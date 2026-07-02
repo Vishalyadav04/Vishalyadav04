@@ -6,10 +6,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
 <br clear="both">
 
 <img data-importer="image" align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
@@ -19,8 +15,9 @@
 <p data-importer="text" align="left">⚡ Full-Stack Developer (MERN)<br>🧠 Learning Next.js & AI<br>🚀 Building scalable web applications<br>💡 Passionate about clean code and problem solving<br>🤝 Open Source • Collaboration • Continuous Learning<br>📚 Always learning, always building, and always improving.</p>
 
 ###
+<br> 
 
-<h2 data-importer="text" align="left">Skills</h2>
+<h2 data-importer="text" align="center">Skills</h2>
 
 ###
 
