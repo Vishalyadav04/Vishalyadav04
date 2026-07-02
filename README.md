@@ -6,17 +6,17 @@
 
 ###
 
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
 <br clear="both">
 
 <img data-importer="image" align="right" height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<p data-importer="text" align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning NextJs<br>🎯 Goals: constant learning new things<br>🎲 Fun fact: Enjoy</p>
+<p data-importer="text" align="left">⚡ Full-Stack Developer (MERN)<br>🧠 Learning Next.js & AI<br>🚀 Building scalable web applications<br>💡 Passionate about clean code and problem solving<br>🤝 Open Source • Collaboration • Continuous Learning<br>📚 Always learning, always building, and always improving.</p>
 
 ###
 
@@ -59,21 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Vishalyadav04/Vishalyadav04/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Vishalyadav04/Vishalyadav04/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishalyadav04/Vishalyadav04/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishalyadav04/Vishalyadav04/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vishalyadav04/Vishalyadav04/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
