@@ -6,7 +6,9 @@
 
 ###
 
-<h3 data-importer="text" align="center">Building AI-powered Web Applications with the MERN Stack.</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Web+Applications+with+MERN+Stack." alt="Typing SVG" /></a>
+</div>
 
 ###
 
